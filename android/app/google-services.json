@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "178769901430",
+    "project_id": "myproo-64090",
+    "storage_bucket": "myproo-64090.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178769901430:android:526ec7b392a9c666ab2c57",
+        "android_client_info": {
+          "package_name": "com.example.myproo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBybSa9c6a4uBRcwuNB28y6eVAoVewaNto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
